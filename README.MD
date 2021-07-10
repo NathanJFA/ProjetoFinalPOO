@@ -8,7 +8,7 @@
 * Java 11 ou OpenJDK 11
 * JavaFX 11
 * Maven 4.0.0
-* JUnit 5.7.1
+* JUnit 5.7.1 
 
 ## Contribuintes
 
